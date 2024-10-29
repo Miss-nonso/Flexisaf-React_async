@@ -1,6 +1,6 @@
 Recipe Finder 🍲
 
-```markdown
+
 This project is a **Recipe Finder** built with React that allows users to search for recipes based on ingredients and filter results by various criteria. The application utilizes JSON data from the Spoonacular API to dynamically display recipe options, implementing form handling, async-await functions, and promise-based data fetching.
 
 ## Key Concepts in This Project
@@ -15,6 +15,7 @@ This project is a **Recipe Finder** built with React that allows users to search
 
 1. **Download Node JS**: Ensure you have Node.js installed on your system.
 2. **Create React App**: Run one of the following commands to initialize your React app:
+   ```markdown
 
    ```bash
    npx create-react-app my-app
@@ -24,13 +25,13 @@ This project is a **Recipe Finder** built with React that allows users to search
    yarn create react-app my-app
    ```
 
-3. **Navigate to Your App Folder**:
+4. **Navigate to Your App Folder**:
 
    ```bash
    cd my-app
    ```
 
-4. **Run the App**:
+5. **Run the App**:
 
    ```bash
    npm start
@@ -51,7 +52,7 @@ I built a responsive and user-friendly **Recipe Finder** app using React. This p
 2. **Clone the Repository**: Clone the forked repository to your local machine using GitHub Desktop or the command line:
 
    ```bash
-   git clone https://github.com/your-username/repo-name.git
+   git clone https://github.com/Miss-nonso/Flexisaf-React_async.git
    ```
 
 3. **Install Dependencies**: Navigate into the project directory and install the necessary dependencies.
