@@ -16,8 +16,7 @@ This project is a **Recipe Finder** built with React that allows users to search
 1. **Download Node JS**: Ensure you have Node.js installed on your system.
 2. **Create React App**: Run one of the following commands to initialize your React app:
    ```markdown
-
-   ```bash
+   
    npx create-react-app my-app
    # OR
    npm init react-app my-app
