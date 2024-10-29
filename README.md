@@ -1,6 +1,6 @@
-```markdown
-# Recipe Finder App 🍲
+Recipe Finder 🍲
 
+```markdown
 This project is a **Recipe Finder** built with React that allows users to search for recipes based on ingredients and filter results by various criteria. The application utilizes JSON data from the Spoonacular API to dynamically display recipe options, implementing form handling, async-await functions, and promise-based data fetching.
 
 ## Key Concepts in This Project
