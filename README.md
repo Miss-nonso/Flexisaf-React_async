@@ -69,7 +69,7 @@ I built a responsive and user-friendly **Recipe Finder** app using React. This p
 
 ## Live Demo
 
-Check out the live demo of this project here: [https://recipe-finder-sable-one.vercel.app/](#) (Add your hosted link here).
+Check out the live demo of this project here: [https://recipe-finder-sable-one.vercel.app/](#)
 
 --- 
 
